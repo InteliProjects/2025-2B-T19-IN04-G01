@@ -11,13 +11,13 @@
 ## Sem Parar
 
 ## 👨‍🎓 Integrantes: 
-- <a href="[www.linkedin.com/in/adrianapolicia]">[Adriana Polícia]</a>
-- <a href="[www.linkedin.com/in/alexsander-dsbarbosa]">[Alexander Barbosa]</a>
-- <a href="[www.linkedin.com/in/danilo-de-castro-neto]">[Danilo Neto]</a>
-- <a href="[www.linkedin.com/in/gabriel-c-zanette]">[Gabriel Zanette]</a>
-- <a href="[www.linkedin.com/in/hugo-montan-393b49175]">[Hugo Montan]</a>
-- <a href="[www.linkedin.com/in/lu%C3%ADsa-mangini]">[Luísa Mangini]</a>
-- <a href="[www.linkedin.com/in/maurihkorn1818]">[Mauri Korn]</a>
+- <a href="www.linkedin.com/in/adrianapolicia">Adriana Polícia</a>
+- <a href="www.linkedin.com/in/alexsander-dsbarbosa">Alexander Barbosa</a>
+- <a href="www.linkedin.com/in/danilo-de-castro-neto">Danilo Neto</a>
+- <a href="www.linkedin.com/in/gabriel-c-zanette">Gabriel Zanette</a>
+- <a href="www.linkedin.com/in/hugo-montan-393b49175">Hugo Montan</a>
+- <a href="www.linkedin.com/in/lu%C3%ADsa-mangini">Luísa Mangini</a>
+- <a href="www.linkedin.com/in/maurihkorn1818">Mauri Korn</a>
 
 
 ## 📜 Descrição
@@ -117,4 +117,4 @@ O funcionamento desta solução pode ser visto [neste vídeo](https://drive.goog
 
 ## 📋 Licença/License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/[seu-repositorio]">[Nome do Projeto]</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/[seu-repositorio]">INTELI, [Nomes dos Alunos]</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/[seu-repositorio]">Sem parar</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/[seu-repositorio]">INTELI. Adriana Polícia, Alexander Barbosa, Danilo Neto, Gabriel Zanette, Hugo Montan, Luísa Mangini, Mauri Korn</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
