@@ -1,0 +1,112 @@
+{
+  "conventional_commits_guide": {
+    "title": "Guia de Commits Convenccionais - Projeto de Administração Tecnológica",
+    "commit_structure": {
+      "format": "<tipo>[!][escopo opcional]: <descrição>",
+      "optional_sections": [
+        "corpo",
+        "rodapé"
+      ]
+    },
+    "commit_types": [
+      {
+        "type": "feat",
+        "description": "Nova funcionalidade",
+        "example": "feat: adiciona autenticação de usuários"
+      },
+      {
+        "type": "fix",
+        "description": "Correção de bug",
+        "example": "fix: corrige erro de validação no formulário"
+      },
+      {
+        "type": "docs",
+        "description": "Atualizações de documentação",
+        "example": "docs: atualiza README com instruções de setup"
+      },
+      {
+        "type": "style",
+        "description": "Mudanças que não afetam o significado do código (espaço em branco, formatação, etc.)",
+        "example": "style: corrige indentação em arquivo de config"
+      },
+      {
+        "type": "refactor",
+        "description": "Mudanças que não corrigem um bug nem adicionam uma funcionalidade",
+        "example": "refactor: melhora estrutura de dados em módulo X"
+      },
+      {
+        "type": "perf",
+        "description": "Melhoria de performance",
+        "example": "perf: otimiza consulta de dados em dashboard"
+      },
+      {
+        "type": "test",
+        "description": "Adicionando ou corrigindo testes",
+        "example": "test: adiciona testes para módulo de autenticação"
+      },
+      {
+        "type": "chore",
+        "description": "Outras mudanças que não modificam arquivos de src ou test",
+        "example": "chore: atualiza dependências do projeto"
+      }
+    ],
+    "advanced_examples": [
+      {
+        "example": "feat(api): adiciona endpoint para criação de usuários"
+      },
+      {
+        "example": "fix(docs)!: atualiza estrutura de pastas no README\n\nBREAKING CHANGE: A estrutura de pastas foi modificada\npara melhor organização dos documentos por sprint."
+      },
+      {
+        "example": "refactor(sprint:2): melhora performance do dashboard\n\n- Implementa caching para dados frequentes\n- Otimiza consultas ao banco de dados\n- Adiciona carregamento lazy em gráficos pesados"
+      }
+    ],
+    "commit_process": [
+      "Fazer alterações no código",
+      "Adicionar arquivos alterados: git add <arquivos>",
+      "Criar commit com mensagem seguindo o padrão: git commit -m \"<tipo>: <mensagem>\"",
+      "Enviar as alterações: git push"
+    ],
+    "pull_request_process": [
+      "Criar uma branch para a feature/fix: git checkout -b feature/minha-feature",
+      "Fazer os commits seguindo o padrão de conventional commits",
+      "Enviar a branch: git push origin feature/minha-feature",
+      "Criar um Pull Request usando o template fornecido no repositório",
+      "Preencher todos os campos obrigatórios no PR",
+      "Aguardar revisão e aprovação da equipe"
+    ],
+    "quality_checklist": {
+      "before_commit": [
+        "O código está funcional e testado",
+        "A documentação foi atualizada conforme necessário",
+        "O código segue as convenções do projeto",
+        "Não há código comentado desnecessariamente",
+        "Não há console.logs ou debugs temporários"
+      ],
+      "before_pull_request": [
+        "O PR tem um título e descrição claros",
+        "Todos os campos do template foram preenchidos",
+        "Todas as verificações do checklist no template de PR foram feitas",
+        "Os checks e CI passaram",
+        "A branch está atualizada com a principal"
+      ]
+    },
+    "agent_instructions": {
+      "responsibilities": [
+        "Garantir que todos os commits sigam o padrão Conventional Commits",
+        "Criar branches com nomes descritivos",
+        "Criar pull requests usando o template do repositório",
+        "Preencher todos os campos obrigatórios nos PRs",
+        "Associar o PR às issues relevantes quando possível",
+        "Garantir que os checks passem antes de solicitar revisão"
+      ],
+      "best_practices": [
+        "Realizar commits frequentes com mudanças focadas",
+        "Escrever mensagens de commit claras e descritivas",
+        "Manter o histórico de commits limpo e organizado",
+        "Revisar o código antes de submeter para PR",
+        "Garantir que as mudanças estejam alinhadas com os objetivos do projeto e do sprint correspondente"
+      ]
+    }
+  }
+}
